@@ -43,15 +43,15 @@ En nuestro caso vamos a crear un usuario llamado **test** el cual tendrá su hom
 
 `sudo ftpasswd --passwd --file=/etc/proftpd/ftpd.passwd --name=test --uid=60 --gid=60 --home=/var/www/html/todo-empresa-ivm04 --shell=/bin/false`
 
--   **--file=**ruta_archivo
+-   **--file=** ruta_archivo
     
--   **--name=**nombre_usuario
+-   **--name=** nombre_usuario
     
--   **--uid=**id_usuario
+-   **--uid=** id_usuario
     
--   **--gid=**grupo
+-   **--gid=** grupo
     
--   **--home=**ruta_home_usuario
+-   **--home=** ruta_home_usuario
     
 -   **--shell**=shell_usuario
     

@@ -80,4 +80,3 @@ No es totalmente necesario, además en esta documentación no explicamos como us
 
 `sudo ftpasswd --passwd --file=/etc/proftpd/ftpd.passwd --name=test --delete-user`
 
-# Crear directorio para usuario
